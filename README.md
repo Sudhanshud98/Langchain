@@ -1,2 +1,0 @@
-# Langchain
-Practice Repo
